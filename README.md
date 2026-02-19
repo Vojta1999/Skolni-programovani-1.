@@ -1,0 +1,1 @@
+# Skolni-programovani-1.
